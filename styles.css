@@ -1,8 +1,32 @@
-/* styles.css */
-
-/* 如果有为导航栏或标题设置样式的代码，可以删除或注释掉 */
-header, nav, .site-title {
+/* 隐藏 title 标签内容，虽然视觉上无直接效果，但以防万一 */
+title {
     display: none;
 }
 
-/* 其他样式... */
+/* 隐藏包含 tgrl.github.io 的 meta 标签 */
+meta[content*="tgrl.github.io"],
+meta[property*="tgrl.github.io"],
+meta[name*="tgrl.github.io"] {
+    display: none;
+}
+
+/* 隐藏包含 tgrl.github.io 的 link 标签 */
+link[href*="tgrl.github.io"] {
+    display: none;
+}
+
+/* 隐藏包含 tgrl.github.io 的 script 标签内的 JSON-LD 数据（虽然无法直接隐藏，但可尝试） */
+script[type="application/ld+json"]:contains("tgrl.github.io") {
+    display: none;
+}
+
+/* 如果你想隐藏左上角某个特定类名或 ID 的元素，可按以下方式添加规则 */
+/* 假设左上角元素有个类名为 top-left-element */
+.top-left-element {
+    display: none;
+}
+
+/* 假设左上角元素有个 ID 为 top-left-id */
+#top-left-id {
+    display: none;
+}    
