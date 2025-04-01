@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css">
 <h1 align = "center">
 TGRL:A Target-oriented Graph Reinforcement Learning method for Autonomous Whole-body Motion Planning in Dynamic Environments 
 </h1>
