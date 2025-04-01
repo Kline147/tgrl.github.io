@@ -1,3 +1,21 @@
-meta[property="og:site_name"][content*="tgrl.github.io"] {
+/* 隐藏 title 标签内容，虽然视觉上无直接效果，但以防万一 */
+title {
     display: none;
 }
+
+/* 隐藏包含 tgrl.github.io 的 meta 标签 */
+meta[content*="tgrl.github.io"],
+meta[property*="tgrl.github.io"],
+meta[name*="tgrl.github.io"] {
+    display: none;
+}
+
+/* 隐藏包含 tgrl.github.io 的 link 标签 */
+link[href*="tgrl.github.io"] {
+    display: none;
+}
+
+/* 隐藏包含 tgrl.github.io 的 script 标签内的 JSON-LD 数据（虽然无法直接隐藏，但可尝试） */
+script[type="application/ld+json"]:contains("tgrl.github.io") {
+    display: none;
+}    
