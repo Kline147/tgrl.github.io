@@ -30,3 +30,6 @@ script[type="application/ld+json"]:contains("tgrl.github.io") {
 #top-left-id {
     display: none;
 }    
+.header-logo {
+    display: none;
+}
