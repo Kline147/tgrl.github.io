@@ -21,8 +21,8 @@ The overall framework of the proposed TGRL: (1)Graph Generator firstly construct
 <!-- 第一个机械臂 -->
 <h3 class="arm-title">Simulated arms (Degree of Freedom: 2)</h3>
 <div class="image-row">
-  <img src="gifs/simple_arm/test_9.gif" alt="Arm 1 DOF 1 GIF 1">
-  <img src="gifs/simple_arm/test_11.gif" alt="Arm 1 DOF 1 GIF 2">
+  <img src="gifs/simple_arm/test_9.gif" alt="Arm 1 DOF 1 GIF 1" class="side-by-side-img">
+  <img src="gifs/simple_arm/test_11.gif" alt="Arm 1 DOF 1 GIF 1" class="side-by-side-img">
 </div>
 
  
