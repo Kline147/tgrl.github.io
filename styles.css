@@ -5,13 +5,29 @@ a[href="https://kline147.github.io/tgrl.github.io/"] {
 .row-container {
     display: flex;
     flex-wrap: nowrap;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-bottom: 20px;
+}
+
+/* 左侧类型容器样式 */
+.left-type-container {
+    width: 48%;
+}
+
+/* 右侧类型容器样式 */
+.right-type-container {
+    width: 48%;
+}
+
+/* GIF 行样式 */
+.gif-row {
+    display: flex;
+    justify-content: space-between;
 }
 
 /* 单个 GIF 样式 */
 .single-gif {
-    width: 22%;
+    width: 48%;
     height: auto;
 }
 
@@ -23,5 +39,11 @@ a[href="https://kline147.github.io/tgrl.github.io/"] {
     text-align: center;
     color: white;
     font-size: 24px;
+    margin-top: 20px;
+}
+
+/* 定义机械臂部分标题样式 */
+.arm-title {
+    font-size: 20px;
     margin-top: 20px;
 }
