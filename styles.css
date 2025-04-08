@@ -1,6 +1,18 @@
 a[href="https://kline147.github.io/tgrl.github.io/"] {
     display: none !important;
 }
+/* 定义双类型行样式 */
+.dual-type-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+/* 定义类型容器样式 */
+.type-container {
+  width: 48%;
+}
+
 /* 定义图片行样式 */
 .image-row {
   display: flex;
