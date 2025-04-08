@@ -19,17 +19,20 @@ The overall framework of the proposed TGRL: (1)Graph Generator firstly construct
 
 <div style="background-color: #c6d2ff; height: 60px; line-height: 60px; text-align: center; color: white; font-size: 24px;"> Simulation Experiments </div>
 
-
 <div class="row-container">
-    <div class="gif-group">
+    <div class="gif-section">
         <h3 class="arm-title">Simulated arms (Degree of Freedom: 2)</h3>
+        <div class="gif-row">
         <img src="gifs/simple_arm/test_9.gif" alt="Simulated arms GIF 1" class="single-gif">
         <img src="gifs/simple_arm/test_11.gif" alt="Simulated arms GIF 2" class="single-gif">
+        </div>
     </div>
-    <div class="gif-group">
+    <div class="gif-section">
         <h3 class="arm-title">KUKA iiwa (Degree of Freedom: 2)</h3>
+        <div class="gif-row">
         <img src="gifs/KUKA/2/real_kuka_2dof.gif" alt="KUKA iiwa GIF 1" class="single-gif">
         <img src="gifs/KUKA/2/real_kuka_2dof2.gif" alt="KUKA iiwa GIF 2" class="single-gif">
+        </div>
     </div>
 </div>
 
