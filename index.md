@@ -23,19 +23,85 @@ The overall framework of the proposed TGRL: (1)Graph Generator firstly construct
     <div class="gif-section">
         <h3 class="arm-title">Simulated arms (Degree of Freedom: 2)</h3>
         <div class="gif-row">
-        <img src="gifs/simple_arm/test_9.gif" alt="Simulated arms GIF 1" class="single-gif">
-        <img src="gifs/simple_arm/test_11.gif" alt="Simulated arms GIF 2" class="single-gif">
+        <img src="gifs/simple_arm/1.gif" alt="Simulated arms GIF 1" class="single-gif">
+        <img src="gifs/simple_arm/2.gif" alt="Simulated arms GIF 2" class="single-gif">
         </div>
     </div>
     <div class="gif-section">
         <h3 class="arm-title">KUKA iiwa (Degree of Freedom: 2)</h3>
         <div class="gif-row">
-        <img src="gifs/KUKA/2/real_kuka_2dof.gif" alt="KUKA iiwa GIF 1" class="single-gif">
-        <img src="gifs/KUKA/2/real_kuka_2dof2.gif" alt="KUKA iiwa GIF 2" class="single-gif">
+        <img src="gifs/KUKA/2/1.gif" alt="KUKA iiwa GIF 1" class="single-gif">
+        <img src="gifs/KUKA/2/2.gif" alt="KUKA iiwa GIF 2" class="single-gif">
         </div>
     </div>
 </div>
 
+<div class="row-container">
+    <div class="gif-section">
+        <h3 class="arm-title">KUKA iiwa (Degree of Freedom: 3)</h3>
+        <div class="gif-row">
+        <img src="gifs/KUKA/3/1.gif" alt="KUKA iiwa GIF 3" class="single-gif">
+        <img src="gifs/KUKA/3/2.gif" alt="KUKA iiwa GIF 4" class="single-gif">
+        </div>
+    </div>
+    <div class="gif-section">
+        <h3 class="arm-title">KUKA iiwa (Degree of Freedom: 4)</h3>
+        <div class="gif-row">
+        <img src="gifs/KUKA/4/1.gif" alt="KUKA iiwa GIF 5" class="single-gif">
+        <img src="gifs/KUKA/4/2.gif" alt="KUKA iiwa GIF 6" class="single-gif">
+        </div>
+    </div>
+</div>
+
+<div class="row-container">
+    <div class="gif-section">
+        <h3 class="arm-title">KUKA iiwa (Degree of Freedom: 5)</h3>
+        <div class="gif-row">
+        <img src="gifs/KUKA/5/1.gif" alt="KUKA iiwa GIF 7" class="single-gif">
+        <img src="gifs/KUKA/5/2.gif" alt="KUKA iiwa GIF 8" class="single-gif">
+        </div>
+    </div>
+    <div class="gif-section">
+        <h3 class="arm-title">KUKA iiwa (Degree of Freedom: 6)</h3>
+        <div class="gif-row">
+        <img src="gifs/KUKA/6/1.gif" alt="KUKA iiwa GIF 9" class="single-gif">
+        <img src="gifs/KUKA/6/2.gif" alt="KUKA iiwa GIF 10" class="single-gif">
+        </div>
+    </div>
+</div>
+
+<div class="row-container">
+    <div class="gif-section">
+        <h3 class="arm-title">UR5 (Degree of Freedom: 2)</h3>
+        <div class="gif-row">
+        <img src="gifs/UR/2/1.gif" alt="UR GIF 1" class="single-gif">
+        <img src="gifs/UR/2/2.gif" alt="UR GIF 2" class="single-gif">
+        </div>
+    </div>
+    <div class="gif-section">
+        <h3 class="arm-title">KUKA iiwa (Degree of Freedom: 3)</h3>
+        <div class="gif-row">
+        <img src="gifs/UR/3/1.gif" alt="UR GIF 3" class="single-gif">
+        <img src="gifs/UR/3/2.gif" alt="UR GIF 4" class="single-gif">
+        </div>
+    </div>
+</div>
+<div class="row-container">
+    <div class="gif-section">
+        <h3 class="arm-title">UR5 (Degree of Freedom: 4)</h3>
+        <div class="gif-row">
+        <img src="gifs/UR/4/1.gif" alt="UR GIF 5" class="single-gif">
+        <img src="gifs/UR/4/2.gif" alt="UR GIF 6" class="single-gif">
+        </div>
+    </div>
+    <div class="gif-section">
+        <h3 class="arm-title">KUKA iiwa (Degree of Freedom: 5)</h3>
+        <div class="gif-row">
+        <img src="gifs/UR/5/1.gif" alt="UR GIF 7" class="single-gif">
+        <img src="gifs/UR/5/2.gif" alt="UR GIF 8" class="single-gif">
+        </div>
+    </div>
+</div>
 
 <div style="background-color: #c6d2ff; height: 60px; line-height: 60px; text-align: center; color: white; font-size: 24px;"> Real World Experiments </div>
 
