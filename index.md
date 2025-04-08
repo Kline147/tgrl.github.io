@@ -32,34 +32,4 @@ The overall framework of the proposed TGRL: (1)Graph Generator firstly construct
 
 
 <div style="background-color: #c6d2ff; height: 60px; line-height: 60px; text-align: center; color: white; font-size: 24px;"> Real World Experiments </div>
-<style>
-/* 定义图片行样式 */
-.image-row {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 20px;
-}
 
-/* 定义并排图片样式 */
-.side-by-side-img {
-  width: 48%; 
-  height: auto;
-}
-
-/* 定义实验部分标题样式 */
-.experiment-title {
-  background-color: #c6d2ff;
-  height: 60px;
-  line-height: 60px;
-  text-align: center;
-  color: white;
-  font-size: 24px;
-  margin-top: 20px;
-}
-
-/* 定义机械臂部分标题样式 */
-.arm-title {
-  font-size: 20px;
-  margin-top: 20px;
-}
-</style>
