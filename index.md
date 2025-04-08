@@ -79,7 +79,7 @@ The overall framework of the proposed TGRL: (1)Graph Generator firstly construct
         </div>
     </div>
     <div class="gif-section">
-        <h3 class="arm-title">KUKA iiwa (Degree of Freedom: 3)</h3>
+        <h3 class="arm-title">UR5 (Degree of Freedom: 3)</h3>
         <div class="gif-row">
         <img src="gifs/UR/3/1.gif" alt="UR GIF 3" class="single-gif">
         <img src="gifs/UR/3/2.gif" alt="UR GIF 4" class="single-gif">
@@ -95,7 +95,7 @@ The overall framework of the proposed TGRL: (1)Graph Generator firstly construct
         </div>
     </div>
     <div class="gif-section">
-        <h3 class="arm-title">KUKA iiwa (Degree of Freedom: 5)</h3>
+        <h3 class="arm-title">UR5 (Degree of Freedom: 5)</h3>
         <div class="gif-row">
         <img src="gifs/UR/5/1.gif" alt="UR GIF 7" class="single-gif">
         <img src="gifs/UR/5/2.gif" alt="UR GIF 8" class="single-gif">
