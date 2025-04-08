@@ -19,14 +19,10 @@ The overall framework of the proposed TGRL: (1)Graph Generator firstly construct
 
 <div style="background-color: #c6d2ff; height: 60px; line-height: 60px; text-align: center; color: white; font-size: 24px;"> Simulation Experiments </div>
 <!-- 第一个机械臂 -->
-<h3 class="arm-title">Arm 1 (Degree of Freedom: X)</h3>
-<div class="image-container">
-  <div class="image-item">
-    <img src="gifs/simple_arm/test_9.gif" alt="Arm 1 DOF 1 GIF 1">
-  </div>
-  <div class="image-item">
-    <img src="gifs/simple_arm/test_11.gif" alt="Arm 1 DOF 1 GIF 2">
-  </div>
+<h3 class="arm-title">Simulated arms (Degree of Freedom: 2)</h3>
+<div class="image-row">
+  <img src="gifs/simple_arm/test_9.gif" alt="Arm 1 DOF 1 GIF 1">
+  <img src="gifs/simple_arm/test_11.gif" alt="Arm 1 DOF 1 GIF 2">
 </div>
 
  
