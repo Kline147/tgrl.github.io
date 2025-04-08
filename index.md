@@ -23,13 +23,17 @@ The overall framework of the proposed TGRL: (1)Graph Generator firstly construct
  <div class="row-container">
    <div class="left-type-container">
     <h3 class="arm-title">Simulated arms (Degree of Freedom: 2)</h3>
+    <div class="gif-row">
       <img src="gifs/simple_arm/test_9.gif" alt="Arm 1 DOF 1 GIF 1" class="side-by-side-img">
       <img src="gifs/simple_arm/test_11.gif" alt="Arm 1 DOF 1 GIF 1" class="side-by-side-img">
+    </div>
   </div>
   <div class="right-type-container">
     <h3 class="arm-title">KUKA iiwa (Degree of Freedom: 2)</h3>
+    <div class="gif-row">
       <img src="gifs/KUKA/2/real_kuka_2dof.gif" alt="Arm 1 Type B DOF 2 GIF 1" class="side-by-side-img">
       <img src="gifs/KUKA/2/real_kuka_2dof2.gif" alt="Arm 1 Type B DOF 2 GIF 2" class="side-by-side-img">
+    </div>
   </div>
 </div>
 
