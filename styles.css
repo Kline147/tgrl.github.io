@@ -43,7 +43,7 @@ a[href="https://kline147.github.io/tgrl.github.io/"] {
     width: 100%;
     height: auto;
     object-fit: cover; /* 确保视频内容填满容器 */
-    aspect-ratio: 16 / 9; /* 可以根据视频的常见宽高比进行调整 */
+    aspect-ratio: 9 / 16; /* 可以根据视频的常见宽高比进行调整 */
 }
 
 /* 定义实验部分标题样式 */
