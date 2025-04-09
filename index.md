@@ -120,3 +120,20 @@ The overall framework of the proposed TGRL: (1)Graph Generator firstly construct
         </video>
     </div>
 </div>
+
+<div class="row-container">
+    <div class="video-group">
+        <h3 class="video-title">UR5 (Degree of Freedom: 4)</h3>
+        <video class="single-video" controls>
+            <source src="mp4/4dof.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+    <div class="video-group">
+        <h3 class="video-title">UR5 (Degree of Freedom: 5)</h3>
+        <video class="single-video" controls>
+            <source src="mp4/5dof.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</div>
