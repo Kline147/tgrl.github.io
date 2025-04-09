@@ -30,6 +30,21 @@ a[href="https://kline147.github.io/tgrl.github.io/"] {
     height: auto;
 }
 
+/* 视频部分容器样式 */
+.video-section {
+    width: 48%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* 单个视频样式 */
+.single-video {
+    width: 80%; /* 可按需调整视频宽度 */
+    height: auto;
+    margin-bottom: 10px;
+}
+
 /* 定义实验部分标题样式 */
 .experiment-title {
     background-color: #c6d2ff;
