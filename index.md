@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="styles.css">
 <h1 align = "center">
-TGRL:A Target-oriented Graph Reinforcement Learning method for Autonomous Whole-body Motion Planning in Dynamic Environments 
+TGRL:A Target-oriented Graph Reinforcement Learning Method for Autonomous Whole-body Motion Planning in Dynamic Environments 
 </h1>
 
 <h2 align = "center">
@@ -128,4 +128,5 @@ The overall framework of the proposed TGRL: (1)Graph Generator firstly construct
         <source src="mp4/5dof.mp4" type="video/mp4">
     </video>
 </div>
+
 
