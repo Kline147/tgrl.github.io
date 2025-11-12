@@ -7,8 +7,7 @@ TGRL:A Target-oriented Graph Reinforcement Learning method for Autonomous Whole-
 Abstract
 </h2>
 
-Data-driven approaches have shown promising performance in safe and efficient trajectory planning for robotic arms, but mostly are limited to tasks in static environments. Challenges remain in complex dynamic environments such as dual-arm collaborative planning. Motion planners need to consider both end-effector trajectory planning and whole-body dynamic obstacle avoidance simultaneously. To this end, we propose a method TGRL. First, a target-oriented directed random graph is constructed in the configuration space. Then, elements of the environment and prior information are encoded and incorporated into the graph structure and node and edge embeddings are updated by means of message passing to obtain a motion planning sampled graph that incorporates global information. On this basis, we design a reinforcement learning framework for training to achieve optimization and enhance performance by intelligently selecting the next node based on the current node state to obtain a complete optimized planning path. Finally, our method was verified in both virtual and real environments. Our method significantly reduces the number of collision detections by 66.7%-75% compared to GNN\_TE and RRT and by nearly 99.9% compared to SIPP, resulting in  faster planning and consistently high success rates.
-
+Data-driven approaches have shown promising performance in safe and efficient trajectory planning for robotic arms, but mostly are limited to tasks in static environments. Challenges remain in complex dynamic environments such as dual-arm collaborative planning. Motion planners need to consider both end-effector trajectory planning and whole-body dynamic obstacle avoidance simultaneously. To this end, we propose a Target-oriented Graph Reinforcement Learning method (TGRL) for Autonomous Whole-body Motion Planning in Dynamic Environments. First, a target-oriented directed random graph is constructed in the configuration space. Then, elements of the environment and prior information are encoded and incorporated into the graph structure, and the node and edge embeddings are updated by means of message passing to obtain a motion planning sampled graph that incorporates global information. On this basis, we design a reinforcement learning algorithm to optimize performance. It intelligently selects the next node based on the current state to obtain a relatively optimized planning path. Finally, our method was verified in both virtual and real environments. Our method effectively reduces the number of collision checks, thereby achieving faster planning speed while maintaining consistently high success rates.
 <h2 align = "left">
 Approach overview
 </h2>
@@ -129,3 +128,4 @@ The overall framework of the proposed TGRL: (1)Graph Generator firstly construct
         <source src="mp4/5dof.mp4" type="video/mp4">
     </video>
 </div>
+
